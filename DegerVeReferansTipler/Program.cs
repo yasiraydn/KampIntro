@@ -21,6 +21,8 @@ namespace DegerVeReferansTipler
             Console.WriteLine(sayilar2[0]);
 
 
+
+
             
         }
     }
