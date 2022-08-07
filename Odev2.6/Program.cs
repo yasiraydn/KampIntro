@@ -6,6 +6,9 @@ namespace Odev2._6
     {
         static void Main(string[] args)
         {
+            
+            
+            
             Klavye klavye1 = new Klavye();
             klavye1.KlavyeAdi = "Razer Blackwidow V3";
             klavye1.KlavyeTuru = "Mekanik";
