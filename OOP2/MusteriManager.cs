@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OOP2
 {
-    internal class MusteriManager:Musteri
+    internal class MusteriManager
     {
         public void Ekle(Musteri musteri)
         {
